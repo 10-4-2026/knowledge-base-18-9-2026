@@ -1,0 +1,5 @@
+- 2.1 Data Ingestion
+    - pandas
+    - pdfplumber
+    - pymupdf
+    - beautifulsoup
